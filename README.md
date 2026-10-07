@@ -22,4 +22,8 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
