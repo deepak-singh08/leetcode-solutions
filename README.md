@@ -9,6 +9,7 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,12 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
