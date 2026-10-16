@@ -10,6 +10,7 @@ my leetcode solutions for coding problems
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 ## String
@@ -41,6 +42,7 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -55,5 +57,6 @@ my leetcode solutions for coding problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 <!---LeetCode Topics End-->
