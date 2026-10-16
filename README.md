@@ -34,6 +34,7 @@ my leetcode solutions for coding problems
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,8 @@ my leetcode solutions for coding problems
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
