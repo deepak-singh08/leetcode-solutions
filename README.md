@@ -20,6 +20,7 @@ my leetcode solutions for coding problems
 | [0006-zigzag-conversion](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ my leetcode solutions for coding problems
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -77,5 +79,6 @@ my leetcode solutions for coding problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 <!---LeetCode Topics End-->
