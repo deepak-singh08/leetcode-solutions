@@ -12,6 +12,7 @@ my leetcode solutions for coding problems
 | [0011-container-with-most-water](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ my leetcode solutions for coding problems
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
