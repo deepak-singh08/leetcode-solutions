@@ -13,6 +13,7 @@ my leetcode solutions for coding problems
 | [0015-3sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ my leetcode solutions for coding problems
 | [0014-longest-common-prefix](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
