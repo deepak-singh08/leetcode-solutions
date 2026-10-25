@@ -24,6 +24,7 @@ my leetcode solutions for coding problems
 | [0010-regular-expression-matching](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -92,10 +93,12 @@ my leetcode solutions for coding problems
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
