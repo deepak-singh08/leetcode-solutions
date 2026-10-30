@@ -51,6 +51,7 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
