@@ -65,6 +65,7 @@ my leetcode solutions for coding problems
 | [0027-remove-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -134,4 +135,8 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
