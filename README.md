@@ -66,6 +66,7 @@ my leetcode solutions for coding problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -139,4 +140,5 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
