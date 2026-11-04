@@ -48,6 +48,7 @@ my leetcode solutions for coding problems
 | [0012-integer-to-roman](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0066-plus-one](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ my leetcode solutions for coding problems
 | [0039-combination-sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0066-plus-one](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Greedy
