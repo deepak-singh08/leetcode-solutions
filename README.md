@@ -30,6 +30,7 @@ my leetcode solutions for coding problems
 | [0020-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0058-length-of-last-word](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
