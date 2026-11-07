@@ -16,6 +16,7 @@ my leetcode solutions for coding problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0061-rotate-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ my leetcode solutions for coding problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
