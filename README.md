@@ -33,6 +33,7 @@ my leetcode solutions for coding problems
 | [0032-longest-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ my leetcode solutions for coding problems
 | [0047-permutations-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0066-plus-one](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ my leetcode solutions for coding problems
 | [0012-integer-to-roman](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
