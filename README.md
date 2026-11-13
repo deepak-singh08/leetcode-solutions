@@ -55,6 +55,7 @@ my leetcode solutions for coding problems
 | [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ my leetcode solutions for coding problems
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Greedy
@@ -91,6 +93,7 @@ my leetcode solutions for coding problems
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -99,10 +102,12 @@ my leetcode solutions for coding problems
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +125,7 @@ my leetcode solutions for coding problems
 | [0012-integer-to-roman](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
