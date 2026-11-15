@@ -82,12 +82,14 @@ my leetcode solutions for coding problems
 | [0118-pascals-triangle](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ my leetcode solutions for coding problems
 | [0047-permutations-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +166,8 @@ my leetcode solutions for coding problems
 | [0039-combination-sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
