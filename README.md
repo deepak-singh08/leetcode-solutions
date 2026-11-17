@@ -56,6 +56,7 @@ my leetcode solutions for coding problems
 | [0029-divide-two-integers](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ my leetcode solutions for coding problems
 | [0136-single-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -108,6 +110,7 @@ my leetcode solutions for coding problems
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
