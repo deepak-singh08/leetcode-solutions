@@ -18,6 +18,7 @@ my leetcode solutions for coding problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ my leetcode solutions for coding problems
 | [0032-longest-valid-parentheses](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
