@@ -19,6 +19,7 @@ my leetcode solutions for coding problems
 | [0061-rotate-list](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ my leetcode solutions for coding problems
 | [0119-pascals-triangle-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
@@ -102,6 +104,7 @@ my leetcode solutions for coding problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -111,6 +114,7 @@ my leetcode solutions for coding problems
 | [0047-permutations-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
@@ -138,6 +142,7 @@ my leetcode solutions for coding problems
 | [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
