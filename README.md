@@ -87,6 +87,7 @@ my leetcode solutions for coding problems
 | [0118-pascals-triangle](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -143,6 +144,7 @@ my leetcode solutions for coding problems
 | [0012-integer-to-roman](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0219-contains-duplicate-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -186,4 +188,8 @@ my leetcode solutions for coding problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
