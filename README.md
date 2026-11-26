@@ -21,6 +21,7 @@ my leetcode solutions for coding problems
 | [0125-valid-palindrome](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0541-reverse-string-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ my leetcode solutions for coding problems
 | [0038-count-and-say](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0541-reverse-string-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
