@@ -89,6 +89,7 @@ my leetcode solutions for coding problems
 | [0118-pascals-triangle](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -119,6 +120,7 @@ my leetcode solutions for coding problems
 | [0018-4sum](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
@@ -148,6 +150,7 @@ my leetcode solutions for coding problems
 | [0012-integer-to-roman](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0169-majority-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -191,9 +194,18 @@ my leetcode solutions for coding problems
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0561-array-partition](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deepak-singh08/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
